@@ -65,3 +65,7 @@ writes GeoJSON to `data/out/`; `npm run lines` adds the line-by-line view.
 
 Data: Trafiklab / SL (CC0) ·
 base map © OpenFreeMap / OpenMapTiles / OpenStreetMap contributors.
+
+## 17.09.2026 — requested fixes
+
+- **Night buses by SL's own rule.** A night line has a 9 as its second digit from the end: 91–96 in the city and 191, 291, 592, 890 … in the suburbs (`NIGHT = /^\d*9\d$/`) — black, last, 9x before x9x. Applied to the published build with `transit-maps/tools/lists.mjs`.

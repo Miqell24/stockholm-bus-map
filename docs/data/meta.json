@@ -3484,506 +3484,6 @@
       "rank": 1
     },
     {
-      "line": "190",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Hornstull",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 40,
-          "lengthKm": 16.2,
-          "stats": {
-            "observations": 814,
-            "matched": 814,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1678525309512449,
-            "roundaboutSegs": 51,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Farsta strand",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 37,
-          "lengthKm": 15.96,
-          "stats": {
-            "observations": 800,
-            "matched": 800,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.249874618347319,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "191",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 1,
-          "tripCount": 10,
-          "stops": 44,
-          "lengthKm": 27.06,
-          "stats": {
-            "observations": 1341,
-            "matched": 1341,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1713444634900332,
-            "roundaboutSegs": 35,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Norsborg",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 44,
-          "lengthKm": 26.93,
-          "stats": {
-            "observations": 1336,
-            "matched": 1336,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1542664908208167,
-            "roundaboutSegs": 35,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "192",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 5,
-          "stops": 33,
-          "lengthKm": 14.9,
-          "stats": {
-            "observations": 734,
-            "matched": 734,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0156175337044595,
-            "roundaboutSegs": 33,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Fruängen",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 34,
-          "lengthKm": 14.94,
-          "stats": {
-            "observations": 752,
-            "matched": 752,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1775644527261697,
-            "roundaboutSegs": 30,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "193",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 2,
-          "stops": 39,
-          "lengthKm": 19.51,
-          "stats": {
-            "observations": 979,
-            "matched": 979,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3042288517594567,
-            "roundaboutSegs": 64,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Farsta strand",
-          "variants": 2,
-          "tripCount": 2,
-          "stops": 39,
-          "lengthKm": 19.45,
-          "stats": {
-            "observations": 963,
-            "matched": 963,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.5180393893370647,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "194",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 23,
-          "lengthKm": 12.08,
-          "stats": {
-            "observations": 607,
-            "matched": 607,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2613681773488072,
-            "roundaboutSegs": 41,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bagarmossen",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 23,
-          "lengthKm": 12.39,
-          "stats": {
-            "observations": 610,
-            "matched": 610,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.4559325172208994,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "195",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 7,
-          "stops": 24,
-          "lengthKm": 15.33,
-          "stats": {
-            "observations": 759,
-            "matched": 759,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2454558178806896,
-            "roundaboutSegs": 57,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Hagsätra",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 26,
-          "lengthKm": 16.87,
-          "stats": {
-            "observations": 747,
-            "matched": 747,
-            "noCandidates": 0,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 16,
-            "meanError": 1.441171579099805,
-            "roundaboutSegs": 30,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "196",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 5,
-          "stops": 31,
-          "lengthKm": 17.93,
-          "stats": {
-            "observations": 908,
-            "matched": 908,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.054301437712945,
-            "roundaboutSegs": 92,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Hjulsta",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 32,
-          "lengthKm": 17.55,
-          "stats": {
-            "observations": 886,
-            "matched": 886,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8439235673026062,
-            "roundaboutSegs": 88,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "197",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 4,
-          "tripCount": 4,
-          "stops": 36,
-          "lengthKm": 24.68,
-          "stats": {
-            "observations": 1249,
-            "matched": 1249,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8155388121839655,
-            "roundaboutSegs": 129,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sollentuna station",
-          "variants": 2,
-          "tripCount": 5,
-          "stops": 36,
-          "lengthKm": 24.54,
-          "stats": {
-            "observations": 1217,
-            "matched": 1217,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.5596850896542658,
-            "roundaboutSegs": 125,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "198",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 4,
-          "tripCount": 5,
-          "stops": 34,
-          "lengthKm": 21.36,
-          "stats": {
-            "observations": 1000,
-            "matched": 1000,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.5026528686735807,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Backlura",
-          "variants": 2,
-          "tripCount": 5,
-          "stops": 36,
-          "lengthKm": 21.3,
-          "stats": {
-            "observations": 1012,
-            "matched": 1012,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1431664617082504,
-            "roundaboutSegs": 79,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "199",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Vällingby",
-          "variants": 3,
-          "tripCount": 6,
-          "stops": 36,
-          "lengthKm": 13.43,
-          "stats": {
-            "observations": 679,
-            "matched": 679,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.9265928912395069,
-            "roundaboutSegs": 33,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Hallonbergen",
-          "variants": 2,
-          "tripCount": 14,
-          "stops": 36,
-          "lengthKm": 13.61,
-          "stats": {
-            "observations": 685,
-            "matched": 685,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.9088999813042926,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
       "line": "201",
       "mode": "bus",
       "color": "#0059a9",
@@ -4505,106 +4005,6 @@
             "rawMeters": 0,
             "meanError": 0.790544295202425,
             "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "291",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Cityterminalen",
-          "variants": 4,
-          "tripCount": 6,
-          "stops": 29,
-          "lengthKm": 16.82,
-          "stats": {
-            "observations": 829,
-            "matched": 829,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1710072435831473,
-            "roundaboutSegs": 162,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Gåshaga",
-          "variants": 3,
-          "tripCount": 12,
-          "stops": 29,
-          "lengthKm": 17.32,
-          "stats": {
-            "observations": 865,
-            "matched": 865,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1561253295627414,
-            "roundaboutSegs": 211,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "293",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ropsten",
-          "variants": 1,
-          "tripCount": 18,
-          "stops": 14,
-          "lengthKm": 6.68,
-          "stats": {
-            "observations": 305,
-            "matched": 305,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.7066991607785282,
-            "roundaboutSegs": 19,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Södergarnsvägen",
-          "variants": 1,
-          "tripCount": 22,
-          "stops": 19,
-          "lengthKm": 9.09,
-          "stats": {
-            "observations": 458,
-            "matched": 458,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0662489132803452,
-            "roundaboutSegs": 17,
             "extStart": 0,
             "extEnd": 0
           }
@@ -5484,56 +4884,6 @@
             "rawMeters": 1999,
             "meanError": 1.8145495230816178,
             "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "396",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Solbacka",
-          "variants": 2,
-          "tripCount": 6,
-          "stops": 44,
-          "lengthKm": 28.87,
-          "stats": {
-            "observations": 1441,
-            "matched": 1441,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.0256492820703755,
-            "roundaboutSegs": 92,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Brommaplan",
-          "variants": 3,
-          "tripCount": 4,
-          "stops": 42,
-          "lengthKm": 28.31,
-          "stats": {
-            "observations": 1430,
-            "matched": 1430,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.4766170309533022,
-            "roundaboutSegs": 69,
             "extStart": 0,
             "extEnd": 0
           }
@@ -8066,206 +7416,6 @@
             "rawMeters": 0,
             "meanError": 1.3177944500224414,
             "roundaboutSegs": 62,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "491",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 11,
-          "stops": 42,
-          "lengthKm": 26.92,
-          "stats": {
-            "observations": 1358,
-            "matched": 1358,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0369070006590577,
-            "roundaboutSegs": 63,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Nyfors",
-          "variants": 2,
-          "tripCount": 11,
-          "stops": 40,
-          "lengthKm": 28.63,
-          "stats": {
-            "observations": 1419,
-            "matched": 1419,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1926987724034792,
-            "roundaboutSegs": 64,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "492",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 2,
-          "stops": 50,
-          "lengthKm": 35.97,
-          "stats": {
-            "observations": 1792,
-            "matched": 1792,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1526320057853687,
-            "roundaboutSegs": 199,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Hemmesta vägskäl",
-          "variants": 1,
-          "tripCount": 2,
-          "stops": 59,
-          "lengthKm": 41.43,
-          "stats": {
-            "observations": 2078,
-            "matched": 2078,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0464892796783278,
-            "roundaboutSegs": 164,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "496",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 28,
-          "lengthKm": 18.06,
-          "stats": {
-            "observations": 893,
-            "matched": 893,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.3639738751278876,
-            "roundaboutSegs": 100,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Orminge centrum",
-          "variants": 5,
-          "tripCount": 2,
-          "stops": 28,
-          "lengthKm": 17.92,
-          "stats": {
-            "observations": 899,
-            "matched": 899,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.096766437170979,
-            "roundaboutSegs": 86,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "497",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Slussen",
-          "variants": 3,
-          "tripCount": 15,
-          "stops": 21,
-          "lengthKm": 19.32,
-          "stats": {
-            "observations": 970,
-            "matched": 970,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0943658426152474,
-            "roundaboutSegs": 29,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Solsidans station",
-          "variants": 2,
-          "tripCount": 15,
-          "stops": 18,
-          "lengthKm": 21.14,
-          "stats": {
-            "observations": 1016,
-            "matched": 1016,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0676991647246006,
-            "roundaboutSegs": 50,
             "extStart": 0,
             "extEnd": 0
           }
@@ -10993,285 +10143,6 @@
       "rank": 1
     },
     {
-      "line": "590",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Jakobsbergs station",
-          "variants": 1,
-          "tripCount": 14,
-          "stops": 21,
-          "lengthKm": 12.46,
-          "stats": {
-            "observations": 634,
-            "matched": 634,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.5491732309542545,
-            "roundaboutSegs": 57,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "591",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Cityterminalen",
-          "variants": 7,
-          "tripCount": 3,
-          "stops": 60,
-          "lengthKm": 45.34,
-          "stats": {
-            "observations": 2218,
-            "matched": 2218,
-            "noCandidates": 0,
-            "viterbiBreaks": 2,
-            "bridged": 0,
-            "rawStretchCount": 2,
-            "rawMeters": 40,
-            "meanError": 1.5308186560587251,
-            "roundaboutSegs": 124,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Råby",
-          "variants": 6,
-          "tripCount": 3,
-          "stops": 62,
-          "lengthKm": 45.73,
-          "stats": {
-            "observations": 2290,
-            "matched": 2290,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.5128358503882349,
-            "roundaboutSegs": 141,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "592",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Cityterminalen",
-          "variants": 3,
-          "tripCount": 9,
-          "stops": 62,
-          "lengthKm": 43.74,
-          "stats": {
-            "observations": 2166,
-            "matched": 2166,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.304738151993649,
-            "roundaboutSegs": 158,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Märsta station",
-          "variants": 4,
-          "tripCount": 10,
-          "stops": 63,
-          "lengthKm": 44.12,
-          "stats": {
-            "observations": 2175,
-            "matched": 2175,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1052864840949255,
-            "roundaboutSegs": 131,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "594",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Rotebro station östra",
-          "variants": 1,
-          "tripCount": 16,
-          "stops": 33,
-          "lengthKm": 16.63,
-          "stats": {
-            "observations": 823,
-            "matched": 823,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.7957553546795403,
-            "roundaboutSegs": 25,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Runby backar",
-          "variants": 1,
-          "tripCount": 16,
-          "stops": 33,
-          "lengthKm": 16.35,
-          "stats": {
-            "observations": 808,
-            "matched": 808,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.6145545347987384,
-            "roundaboutSegs": 11,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "595",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 1,
-          "tripCount": 7,
-          "stops": 24,
-          "lengthKm": 10.79,
-          "stats": {
-            "observations": 541,
-            "matched": 541,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.246941915408705,
-            "roundaboutSegs": 30,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sundbybergs station",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 25,
-          "lengthKm": 11.03,
-          "stats": {
-            "observations": 555,
-            "matched": 555,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.047445561632493,
-            "roundaboutSegs": 50,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "598",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Rotebro station östra",
-          "variants": 1,
-          "tripCount": 22,
-          "stops": 32,
-          "lengthKm": 17.04,
-          "stats": {
-            "observations": 858,
-            "matched": 858,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.8195560377414897,
-            "roundaboutSegs": 42,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Upplands Väsby station",
-          "variants": 1,
-          "tripCount": 19,
-          "stops": 32,
-          "lengthKm": 16.41,
-          "stats": {
-            "observations": 825,
-            "matched": 825,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.8041965026899702,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
       "line": "601",
       "mode": "bus",
       "color": "#0059a9",
@@ -13483,335 +12354,6 @@
       "rank": 1
     },
     {
-      "line": "690",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Odenplan",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 46,
-          "lengthKm": 29.29,
-          "stats": {
-            "observations": 1447,
-            "matched": 1447,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.8331266943650705,
-            "roundaboutSegs": 118,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Rosengården",
-          "variants": 3,
-          "tripCount": 4,
-          "stops": 46,
-          "lengthKm": 30.21,
-          "stats": {
-            "observations": 1495,
-            "matched": 1495,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.5822366145189406,
-            "roundaboutSegs": 112,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "691",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Odenplan",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 46,
-          "lengthKm": 24.51,
-          "stats": {
-            "observations": 1228,
-            "matched": 1228,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.820551108341808,
-            "roundaboutSegs": 142,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Pilotvägen",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 47,
-          "lengthKm": 25.43,
-          "stats": {
-            "observations": 1274,
-            "matched": 1274,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.6586158835766324,
-            "roundaboutSegs": 131,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "694",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Danderyds sjukhus",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 31,
-          "lengthKm": 36.85,
-          "stats": {
-            "observations": 1775,
-            "matched": 1775,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.6866335938163034,
-            "roundaboutSegs": 61,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Åkerstorp",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 34,
-          "lengthKm": 39.39,
-          "stats": {
-            "observations": 1886,
-            "matched": 1886,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.8036297985308885,
-            "roundaboutSegs": 53,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "695",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Danderyds sjukhus",
-          "variants": 1,
-          "tripCount": 16,
-          "stops": 44,
-          "lengthKm": 22.27,
-          "stats": {
-            "observations": 1117,
-            "matched": 1117,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.591325646851007,
-            "roundaboutSegs": 87,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Arninge station",
-          "variants": 1,
-          "tripCount": 17,
-          "stops": 44,
-          "lengthKm": 22.56,
-          "stats": {
-            "observations": 1131,
-            "matched": 1131,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.5260577799992248,
-            "roundaboutSegs": 83,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "697",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Cityterminalen",
-          "variants": 3,
-          "tripCount": 8,
-          "stops": 41,
-          "lengthKm": 23.47,
-          "stats": {
-            "observations": 1179,
-            "matched": 1179,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.29881298220971,
-            "roundaboutSegs": 59,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sollentuna station",
-          "variants": 4,
-          "tripCount": 6,
-          "stops": 43,
-          "lengthKm": 24.31,
-          "stats": {
-            "observations": 1223,
-            "matched": 1223,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1104543062124468,
-            "roundaboutSegs": 58,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "698",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Österskärs station",
-          "variants": 1,
-          "tripCount": 2,
-          "stops": 40,
-          "lengthKm": 36.95,
-          "stats": {
-            "observations": 1818,
-            "matched": 1818,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.7485569131097488,
-            "roundaboutSegs": 96,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "699",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Tekniska högskolan",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 28,
-          "lengthKm": 40.98,
-          "stats": {
-            "observations": 2020,
-            "matched": 2020,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.7542070185647676,
-            "roundaboutSegs": 17,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Västerhamnsplan",
-          "variants": 1,
-          "tripCount": 15,
-          "stops": 27,
-          "lengthKm": 41.34,
-          "stats": {
-            "observations": 2038,
-            "matched": 2038,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.7340011905455937,
-            "roundaboutSegs": 18,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
       "line": "702",
       "mode": "bus",
       "color": "#0059a9",
@@ -15391,256 +13933,6 @@
             "rawMeters": 20,
             "meanError": 1.7402600998577782,
             "roundaboutSegs": 82,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "791",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 4,
-          "tripCount": 13,
-          "stops": 44,
-          "lengthKm": 45.73,
-          "stats": {
-            "observations": 2281,
-            "matched": 2281,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2338512237090677,
-            "roundaboutSegs": 61,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Södertälje centrum",
-          "variants": 3,
-          "tripCount": 11,
-          "stops": 44,
-          "lengthKm": 46.32,
-          "stats": {
-            "observations": 2300,
-            "matched": 2300,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0959712686946814,
-            "roundaboutSegs": 87,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "792",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Skärholmen",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 38,
-          "lengthKm": 18.11,
-          "stats": {
-            "observations": 912,
-            "matched": 912,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.824110361640184,
-            "roundaboutSegs": 55,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Balingsnäs",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 36,
-          "lengthKm": 18.43,
-          "stats": {
-            "observations": 928,
-            "matched": 928,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.7624631893717259,
-            "roundaboutSegs": 65,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "794",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Huddinge station",
-          "variants": 2,
-          "tripCount": 10,
-          "stops": 15,
-          "lengthKm": 7.47,
-          "stats": {
-            "observations": 377,
-            "matched": 377,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8063168109190553,
-            "roundaboutSegs": 27,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Björnkulla",
-          "variants": 2,
-          "tripCount": 9,
-          "stops": 16,
-          "lengthKm": 7.71,
-          "stats": {
-            "observations": 372,
-            "matched": 372,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.186077257537962,
-            "roundaboutSegs": 38,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "795",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Fittja",
-          "variants": 2,
-          "tripCount": 45,
-          "stops": 30,
-          "lengthKm": 15.98,
-          "stats": {
-            "observations": 802,
-            "matched": 802,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.8375449238199894,
-            "roundaboutSegs": 54,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Tumba station",
-          "variants": 1,
-          "tripCount": 21,
-          "stops": 30,
-          "lengthKm": 16.22,
-          "stats": {
-            "observations": 818,
-            "matched": 818,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.9861232127584826,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "796",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Tumba station",
-          "variants": 1,
-          "tripCount": 5,
-          "stops": 18,
-          "lengthKm": 11.12,
-          "stats": {
-            "observations": 561,
-            "matched": 561,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.056639044038921,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bremora",
-          "variants": 2,
-          "tripCount": 20,
-          "stops": 18,
-          "lengthKm": 10.99,
-          "stats": {
-            "observations": 556,
-            "matched": 556,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1016187273829146,
-            "roundaboutSegs": 2,
             "extStart": 0,
             "extEnd": 0
           }
@@ -17686,156 +15978,6 @@
       "rank": 1
     },
     {
-      "line": "890",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 12,
-          "stops": 37,
-          "lengthKm": 23.56,
-          "stats": {
-            "observations": 1186,
-            "matched": 1186,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.099211597005715,
-            "roundaboutSegs": 68,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Tyresö kyrka",
-          "variants": 2,
-          "tripCount": 12,
-          "stops": 37,
-          "lengthKm": 24.67,
-          "stats": {
-            "observations": 1115,
-            "matched": 1115,
-            "noCandidates": 0,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 19,
-            "meanError": 1.5444292044036905,
-            "roundaboutSegs": 65,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "892",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 3,
-          "tripCount": 6,
-          "stops": 36,
-          "lengthKm": 33.39,
-          "stats": {
-            "observations": 1684,
-            "matched": 1684,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2543803377841436,
-            "roundaboutSegs": 44,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Jordbro station",
-          "variants": 3,
-          "tripCount": 4,
-          "stops": 36,
-          "lengthKm": 36.1,
-          "stats": {
-            "observations": 1790,
-            "matched": 1790,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2691835535064833,
-            "roundaboutSegs": 53,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "line": "893",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Centralen",
-          "variants": 2,
-          "tripCount": 11,
-          "stops": 52,
-          "lengthKm": 40.42,
-          "stats": {
-            "observations": 2034,
-            "matched": 2034,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1095551856508212,
-            "roundaboutSegs": 116,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Lillgården",
-          "variants": 1,
-          "tripCount": 14,
-          "stops": 53,
-          "lengthKm": 41.34,
-          "stats": {
-            "observations": 2055,
-            "matched": 2055,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.1746872005860287,
-            "roundaboutSegs": 214,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 1
-    },
-    {
       "line": "7",
       "mode": "tram",
       "color": "#d6212b",
@@ -19378,6 +17520,1864 @@
             "rawMeters": 0,
             "meanError": 1.3679322636168985,
             "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "190",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Hornstull",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 40,
+          "lengthKm": 16.2,
+          "stats": {
+            "observations": 814,
+            "matched": 814,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1678525309512449,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Farsta strand",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 37,
+          "lengthKm": 15.96,
+          "stats": {
+            "observations": 800,
+            "matched": 800,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.249874618347319,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "191",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 44,
+          "lengthKm": 27.06,
+          "stats": {
+            "observations": 1341,
+            "matched": 1341,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1713444634900332,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Norsborg",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 44,
+          "lengthKm": 26.93,
+          "stats": {
+            "observations": 1336,
+            "matched": 1336,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1542664908208167,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "192",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 33,
+          "lengthKm": 14.9,
+          "stats": {
+            "observations": 734,
+            "matched": 734,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0156175337044595,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Fruängen",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 34,
+          "lengthKm": 14.94,
+          "stats": {
+            "observations": 752,
+            "matched": 752,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1775644527261697,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "193",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 39,
+          "lengthKm": 19.51,
+          "stats": {
+            "observations": 979,
+            "matched": 979,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3042288517594567,
+            "roundaboutSegs": 64,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Farsta strand",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 39,
+          "lengthKm": 19.45,
+          "stats": {
+            "observations": 963,
+            "matched": 963,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5180393893370647,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "194",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 23,
+          "lengthKm": 12.08,
+          "stats": {
+            "observations": 607,
+            "matched": 607,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2613681773488072,
+            "roundaboutSegs": 41,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bagarmossen",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 23,
+          "lengthKm": 12.39,
+          "stats": {
+            "observations": 610,
+            "matched": 610,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4559325172208994,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "195",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 7,
+          "stops": 24,
+          "lengthKm": 15.33,
+          "stats": {
+            "observations": 759,
+            "matched": 759,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2454558178806896,
+            "roundaboutSegs": 57,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Hagsätra",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 26,
+          "lengthKm": 16.87,
+          "stats": {
+            "observations": 747,
+            "matched": 747,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 16,
+            "meanError": 1.441171579099805,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "196",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 31,
+          "lengthKm": 17.93,
+          "stats": {
+            "observations": 908,
+            "matched": 908,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.054301437712945,
+            "roundaboutSegs": 92,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Hjulsta",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 32,
+          "lengthKm": 17.55,
+          "stats": {
+            "observations": 886,
+            "matched": 886,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8439235673026062,
+            "roundaboutSegs": 88,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "197",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 4,
+          "tripCount": 4,
+          "stops": 36,
+          "lengthKm": 24.68,
+          "stats": {
+            "observations": 1249,
+            "matched": 1249,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8155388121839655,
+            "roundaboutSegs": 129,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sollentuna station",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 36,
+          "lengthKm": 24.54,
+          "stats": {
+            "observations": 1217,
+            "matched": 1217,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5596850896542658,
+            "roundaboutSegs": 125,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "198",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 4,
+          "tripCount": 5,
+          "stops": 34,
+          "lengthKm": 21.36,
+          "stats": {
+            "observations": 1000,
+            "matched": 1000,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5026528686735807,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Backlura",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 36,
+          "lengthKm": 21.3,
+          "stats": {
+            "observations": 1012,
+            "matched": 1012,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1431664617082504,
+            "roundaboutSegs": 79,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "199",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Vällingby",
+          "variants": 3,
+          "tripCount": 6,
+          "stops": 36,
+          "lengthKm": 13.43,
+          "stats": {
+            "observations": 679,
+            "matched": 679,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9265928912395069,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Hallonbergen",
+          "variants": 2,
+          "tripCount": 14,
+          "stops": 36,
+          "lengthKm": 13.61,
+          "stats": {
+            "observations": 685,
+            "matched": 685,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9088999813042926,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "291",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cityterminalen",
+          "variants": 4,
+          "tripCount": 6,
+          "stops": 29,
+          "lengthKm": 16.82,
+          "stats": {
+            "observations": 829,
+            "matched": 829,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1710072435831473,
+            "roundaboutSegs": 162,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Gåshaga",
+          "variants": 3,
+          "tripCount": 12,
+          "stops": 29,
+          "lengthKm": 17.32,
+          "stats": {
+            "observations": 865,
+            "matched": 865,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1561253295627414,
+            "roundaboutSegs": 211,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "293",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ropsten",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 14,
+          "lengthKm": 6.68,
+          "stats": {
+            "observations": 305,
+            "matched": 305,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7066991607785282,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Södergarnsvägen",
+          "variants": 1,
+          "tripCount": 22,
+          "stops": 19,
+          "lengthKm": 9.09,
+          "stats": {
+            "observations": 458,
+            "matched": 458,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0662489132803452,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "396",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Solbacka",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 44,
+          "lengthKm": 28.87,
+          "stats": {
+            "observations": 1441,
+            "matched": 1441,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0256492820703755,
+            "roundaboutSegs": 92,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Brommaplan",
+          "variants": 3,
+          "tripCount": 4,
+          "stops": 42,
+          "lengthKm": 28.31,
+          "stats": {
+            "observations": 1430,
+            "matched": 1430,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4766170309533022,
+            "roundaboutSegs": 69,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "491",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 11,
+          "stops": 42,
+          "lengthKm": 26.92,
+          "stats": {
+            "observations": 1358,
+            "matched": 1358,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0369070006590577,
+            "roundaboutSegs": 63,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Nyfors",
+          "variants": 2,
+          "tripCount": 11,
+          "stops": 40,
+          "lengthKm": 28.63,
+          "stats": {
+            "observations": 1419,
+            "matched": 1419,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1926987724034792,
+            "roundaboutSegs": 64,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "492",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 50,
+          "lengthKm": 35.97,
+          "stats": {
+            "observations": 1792,
+            "matched": 1792,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1526320057853687,
+            "roundaboutSegs": 199,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Hemmesta vägskäl",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 59,
+          "lengthKm": 41.43,
+          "stats": {
+            "observations": 2078,
+            "matched": 2078,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0464892796783278,
+            "roundaboutSegs": 164,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "496",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 28,
+          "lengthKm": 18.06,
+          "stats": {
+            "observations": 893,
+            "matched": 893,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.3639738751278876,
+            "roundaboutSegs": 100,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Orminge centrum",
+          "variants": 5,
+          "tripCount": 2,
+          "stops": 28,
+          "lengthKm": 17.92,
+          "stats": {
+            "observations": 899,
+            "matched": 899,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.096766437170979,
+            "roundaboutSegs": 86,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "497",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Slussen",
+          "variants": 3,
+          "tripCount": 15,
+          "stops": 21,
+          "lengthKm": 19.32,
+          "stats": {
+            "observations": 970,
+            "matched": 970,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0943658426152474,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Solsidans station",
+          "variants": 2,
+          "tripCount": 15,
+          "stops": 18,
+          "lengthKm": 21.14,
+          "stats": {
+            "observations": 1016,
+            "matched": 1016,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0676991647246006,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "590",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Jakobsbergs station",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 21,
+          "lengthKm": 12.46,
+          "stats": {
+            "observations": 634,
+            "matched": 634,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5491732309542545,
+            "roundaboutSegs": 57,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "591",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cityterminalen",
+          "variants": 7,
+          "tripCount": 3,
+          "stops": 60,
+          "lengthKm": 45.34,
+          "stats": {
+            "observations": 2218,
+            "matched": 2218,
+            "noCandidates": 0,
+            "viterbiBreaks": 2,
+            "bridged": 0,
+            "rawStretchCount": 2,
+            "rawMeters": 40,
+            "meanError": 1.5308186560587251,
+            "roundaboutSegs": 124,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Råby",
+          "variants": 6,
+          "tripCount": 3,
+          "stops": 62,
+          "lengthKm": 45.73,
+          "stats": {
+            "observations": 2290,
+            "matched": 2290,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5128358503882349,
+            "roundaboutSegs": 141,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "592",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cityterminalen",
+          "variants": 3,
+          "tripCount": 9,
+          "stops": 62,
+          "lengthKm": 43.74,
+          "stats": {
+            "observations": 2166,
+            "matched": 2166,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.304738151993649,
+            "roundaboutSegs": 158,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Märsta station",
+          "variants": 4,
+          "tripCount": 10,
+          "stops": 63,
+          "lengthKm": 44.12,
+          "stats": {
+            "observations": 2175,
+            "matched": 2175,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1052864840949255,
+            "roundaboutSegs": 131,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "594",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rotebro station östra",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 33,
+          "lengthKm": 16.63,
+          "stats": {
+            "observations": 823,
+            "matched": 823,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7957553546795403,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Runby backar",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 33,
+          "lengthKm": 16.35,
+          "stats": {
+            "observations": 808,
+            "matched": 808,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6145545347987384,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "595",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 24,
+          "lengthKm": 10.79,
+          "stats": {
+            "observations": 541,
+            "matched": 541,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.246941915408705,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sundbybergs station",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 25,
+          "lengthKm": 11.03,
+          "stats": {
+            "observations": 555,
+            "matched": 555,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.047445561632493,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "598",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rotebro station östra",
+          "variants": 1,
+          "tripCount": 22,
+          "stops": 32,
+          "lengthKm": 17.04,
+          "stats": {
+            "observations": 858,
+            "matched": 858,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8195560377414897,
+            "roundaboutSegs": 42,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Upplands Väsby station",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 32,
+          "lengthKm": 16.41,
+          "stats": {
+            "observations": 825,
+            "matched": 825,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8041965026899702,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "690",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Odenplan",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 46,
+          "lengthKm": 29.29,
+          "stats": {
+            "observations": 1447,
+            "matched": 1447,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8331266943650705,
+            "roundaboutSegs": 118,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Rosengården",
+          "variants": 3,
+          "tripCount": 4,
+          "stops": 46,
+          "lengthKm": 30.21,
+          "stats": {
+            "observations": 1495,
+            "matched": 1495,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5822366145189406,
+            "roundaboutSegs": 112,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "691",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Odenplan",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 46,
+          "lengthKm": 24.51,
+          "stats": {
+            "observations": 1228,
+            "matched": 1228,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.820551108341808,
+            "roundaboutSegs": 142,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Pilotvägen",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 47,
+          "lengthKm": 25.43,
+          "stats": {
+            "observations": 1274,
+            "matched": 1274,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6586158835766324,
+            "roundaboutSegs": 131,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "694",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Danderyds sjukhus",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 31,
+          "lengthKm": 36.85,
+          "stats": {
+            "observations": 1775,
+            "matched": 1775,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6866335938163034,
+            "roundaboutSegs": 61,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Åkerstorp",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 34,
+          "lengthKm": 39.39,
+          "stats": {
+            "observations": 1886,
+            "matched": 1886,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8036297985308885,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "695",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Danderyds sjukhus",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 44,
+          "lengthKm": 22.27,
+          "stats": {
+            "observations": 1117,
+            "matched": 1117,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.591325646851007,
+            "roundaboutSegs": 87,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Arninge station",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 44,
+          "lengthKm": 22.56,
+          "stats": {
+            "observations": 1131,
+            "matched": 1131,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5260577799992248,
+            "roundaboutSegs": 83,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "697",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Cityterminalen",
+          "variants": 3,
+          "tripCount": 8,
+          "stops": 41,
+          "lengthKm": 23.47,
+          "stats": {
+            "observations": 1179,
+            "matched": 1179,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.29881298220971,
+            "roundaboutSegs": 59,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sollentuna station",
+          "variants": 4,
+          "tripCount": 6,
+          "stops": 43,
+          "lengthKm": 24.31,
+          "stats": {
+            "observations": 1223,
+            "matched": 1223,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1104543062124468,
+            "roundaboutSegs": 58,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "698",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Österskärs station",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 40,
+          "lengthKm": 36.95,
+          "stats": {
+            "observations": 1818,
+            "matched": 1818,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7485569131097488,
+            "roundaboutSegs": 96,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "699",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tekniska högskolan",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 28,
+          "lengthKm": 40.98,
+          "stats": {
+            "observations": 2020,
+            "matched": 2020,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7542070185647676,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Västerhamnsplan",
+          "variants": 1,
+          "tripCount": 15,
+          "stops": 27,
+          "lengthKm": 41.34,
+          "stats": {
+            "observations": 2038,
+            "matched": 2038,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7340011905455937,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "791",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 4,
+          "tripCount": 13,
+          "stops": 44,
+          "lengthKm": 45.73,
+          "stats": {
+            "observations": 2281,
+            "matched": 2281,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2338512237090677,
+            "roundaboutSegs": 61,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Södertälje centrum",
+          "variants": 3,
+          "tripCount": 11,
+          "stops": 44,
+          "lengthKm": 46.32,
+          "stats": {
+            "observations": 2300,
+            "matched": 2300,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0959712686946814,
+            "roundaboutSegs": 87,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "792",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Skärholmen",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 38,
+          "lengthKm": 18.11,
+          "stats": {
+            "observations": 912,
+            "matched": 912,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.824110361640184,
+            "roundaboutSegs": 55,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Balingsnäs",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 36,
+          "lengthKm": 18.43,
+          "stats": {
+            "observations": 928,
+            "matched": 928,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7624631893717259,
+            "roundaboutSegs": 65,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "794",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Huddinge station",
+          "variants": 2,
+          "tripCount": 10,
+          "stops": 15,
+          "lengthKm": 7.47,
+          "stats": {
+            "observations": 377,
+            "matched": 377,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8063168109190553,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Björnkulla",
+          "variants": 2,
+          "tripCount": 9,
+          "stops": 16,
+          "lengthKm": 7.71,
+          "stats": {
+            "observations": 372,
+            "matched": 372,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.186077257537962,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "795",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Fittja",
+          "variants": 2,
+          "tripCount": 45,
+          "stops": 30,
+          "lengthKm": 15.98,
+          "stats": {
+            "observations": 802,
+            "matched": 802,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8375449238199894,
+            "roundaboutSegs": 54,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tumba station",
+          "variants": 1,
+          "tripCount": 21,
+          "stops": 30,
+          "lengthKm": 16.22,
+          "stats": {
+            "observations": 818,
+            "matched": 818,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9861232127584826,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "796",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tumba station",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 18,
+          "lengthKm": 11.12,
+          "stats": {
+            "observations": 561,
+            "matched": 561,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.056639044038921,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bremora",
+          "variants": 2,
+          "tripCount": 20,
+          "stops": 18,
+          "lengthKm": 10.99,
+          "stats": {
+            "observations": 556,
+            "matched": 556,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1016187273829146,
+            "roundaboutSegs": 2,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "890",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 12,
+          "stops": 37,
+          "lengthKm": 23.56,
+          "stats": {
+            "observations": 1186,
+            "matched": 1186,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.099211597005715,
+            "roundaboutSegs": 68,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tyresö kyrka",
+          "variants": 2,
+          "tripCount": 12,
+          "stops": 37,
+          "lengthKm": 24.67,
+          "stats": {
+            "observations": 1115,
+            "matched": 1115,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 19,
+            "meanError": 1.5444292044036905,
+            "roundaboutSegs": 65,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "892",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 3,
+          "tripCount": 6,
+          "stops": 36,
+          "lengthKm": 33.39,
+          "stats": {
+            "observations": 1684,
+            "matched": 1684,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2543803377841436,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Jordbro station",
+          "variants": 3,
+          "tripCount": 4,
+          "stops": 36,
+          "lengthKm": 36.1,
+          "stats": {
+            "observations": 1790,
+            "matched": 1790,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2691835535064833,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "893",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Centralen",
+          "variants": 2,
+          "tripCount": 11,
+          "stops": 52,
+          "lengthKm": 40.42,
+          "stats": {
+            "observations": 2034,
+            "matched": 2034,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1095551856508212,
+            "roundaboutSegs": 116,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Lillgården",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 53,
+          "lengthKm": 41.34,
+          "stats": {
+            "observations": 2055,
+            "matched": 2055,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1746872005860287,
+            "roundaboutSegs": 214,
             "extStart": 0,
             "extEnd": 0
           }

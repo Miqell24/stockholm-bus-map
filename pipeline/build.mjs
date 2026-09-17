@@ -56,7 +56,9 @@ const keyParts = (s) => {
 // the number rows along the streets, the terminus badge grids. The night
 // rule is this city's own (NIGHT, tested on the printed number); the
 // trolleybuses are whatever the feed loop painted green (TROLLEYS).
-const NIGHT = /^9\d$/;
+// SL night buses: 9x in the city, x9x in the suburbs — 91, 191, 592, 890: the
+// second digit from the end is a 9 (user 17.09.2026)
+const NIGHT = /^\d*9\d$/;
 const TROLLEYS = new Set();
 const lineRank = (k) => (TROLLEYS.has(k) ? 0
   : NIGHT.test(typeof LBL !== 'undefined' && LBL.has(k) ? LBL.get(k) : k) ? 2 : 1);
@@ -1913,7 +1915,7 @@ log(`Wrote data/out/{route,streets,labels,street-names,stops,badges,gtfs-shape}.
 
 // Night lines print black, and sort last where the lists carry no rank
 // (user rule 8.09.2026): a post-pass over the written outputs, see night.mjs.
-await (await import('./night.mjs')).nightPass(outDir, /^9\d$/, { sort: true });
+await (await import('./night.mjs')).nightPass(outDir, /^\d*9\d$/, { sort: true });
 // Stop names, headsigns and the few line keys the street prints otherwise
 // (audit, 11.09.2026): a post-pass over the written outputs, see names.mjs.
 (await import('./names.mjs')).namesPass(outDir, undefined, { log });
